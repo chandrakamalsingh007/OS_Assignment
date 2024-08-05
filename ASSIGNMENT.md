@@ -38,7 +38,7 @@ Question: Describe and discuss the use case of following:<br>
 
 
 
-<strong>// C program for producer consumer problem
+// C program for producer consumer problem
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -109,4 +109,4 @@ int main(){
 
 }
 
-</strong>
+
